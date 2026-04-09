@@ -17,7 +17,7 @@ jobs:
   qualify:
     runs-on: ubuntu-latest
     env:
-      QUAL_BASELINE_PATH: python_skeleton
+      QUAL_BASELINE_PATH: baseline_bot
       QUAL_NUM_ROUNDS: "300"
       QUAL_MIN_BANKROLL: "1"
 
