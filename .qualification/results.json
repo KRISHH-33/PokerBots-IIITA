@@ -1,0 +1,9 @@
+{
+  "base_ref": "main",
+  "baseline_path": "python_skeleton",
+  "num_rounds": 300,
+  "min_submission_bankroll": 1,
+  "changed_files": [],
+  "invalid_paths": [],
+  "results": []
+}
