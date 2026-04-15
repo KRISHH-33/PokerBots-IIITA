@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/KRISHH_3/Downloads/PokerBots-IIITA-main/submission/IIT2025281/cpp_bot/build/cmake_install.cmake",
+		"/home/KRISHH_3/Downloads/PokerBots-IIITA-main/submission/IIT2025281/cpp_bot/build/libs/cmake_install.cmake",
+		"/home/KRISHH_3/Downloads/PokerBots-IIITA-main/submission/IIT2025281/cpp_bot/build/libs/skeleton/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
